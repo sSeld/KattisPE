@@ -1,0 +1,6 @@
+c:\users\jeremys\documents\visual studio 2015\Projects\Bijele\Bijele\bin\Debug\Bijele.exe.config
+c:\users\jeremys\documents\visual studio 2015\Projects\Bijele\Bijele\bin\Debug\Bijele.exe
+c:\users\jeremys\documents\visual studio 2015\Projects\Bijele\Bijele\bin\Debug\Bijele.pdb
+c:\users\jeremys\documents\visual studio 2015\Projects\Bijele\Bijele\obj\Debug\Bijele.csprojResolveAssemblyReference.cache
+c:\users\jeremys\documents\visual studio 2015\Projects\Bijele\Bijele\obj\Debug\Bijele.exe
+c:\users\jeremys\documents\visual studio 2015\Projects\Bijele\Bijele\obj\Debug\Bijele.pdb

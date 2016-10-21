@@ -1,0 +1,6 @@
+c:\users\jeremys\documents\visual studio 2015\Projects\Twostones\Twostones\bin\Debug\Twostones.exe.config
+c:\users\jeremys\documents\visual studio 2015\Projects\Twostones\Twostones\bin\Debug\Twostones.exe
+c:\users\jeremys\documents\visual studio 2015\Projects\Twostones\Twostones\bin\Debug\Twostones.pdb
+c:\users\jeremys\documents\visual studio 2015\Projects\Twostones\Twostones\obj\Debug\Twostones.csprojResolveAssemblyReference.cache
+c:\users\jeremys\documents\visual studio 2015\Projects\Twostones\Twostones\obj\Debug\Twostones.exe
+c:\users\jeremys\documents\visual studio 2015\Projects\Twostones\Twostones\obj\Debug\Twostones.pdb
