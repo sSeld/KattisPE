@@ -1,0 +1,6 @@
+c:\users\jeremys\documents\visual studio 2015\Projects\Kattis\Kattis\bin\Debug\Kattis.exe.config
+c:\users\jeremys\documents\visual studio 2015\Projects\Kattis\Kattis\obj\Debug\Kattis.csprojResolveAssemblyReference.cache
+c:\users\jeremys\documents\visual studio 2015\Projects\Kattis\Kattis\bin\Debug\Kattis.exe
+c:\users\jeremys\documents\visual studio 2015\Projects\Kattis\Kattis\bin\Debug\Kattis.pdb
+c:\users\jeremys\documents\visual studio 2015\Projects\Kattis\Kattis\obj\Debug\Kattis.exe
+c:\users\jeremys\documents\visual studio 2015\Projects\Kattis\Kattis\obj\Debug\Kattis.pdb

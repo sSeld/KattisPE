@@ -1,0 +1,6 @@
+C:\Users\JeremyS\Documents\Visual Studio 2015\Projects\Kattis\Kattis\bin\Debug\Kattis.exe.config
+C:\Users\JeremyS\Documents\Visual Studio 2015\Projects\Kattis\Kattis\bin\Debug\Kattis.exe
+C:\Users\JeremyS\Documents\Visual Studio 2015\Projects\Kattis\Kattis\bin\Debug\Kattis.pdb
+C:\Users\JeremyS\Documents\Visual Studio 2015\Projects\Kattis\Kattis\obj\Debug\Kattis.FallingApples.csprojResolveAssemblyReference.cache
+C:\Users\JeremyS\Documents\Visual Studio 2015\Projects\Kattis\Kattis\obj\Debug\Kattis.exe
+C:\Users\JeremyS\Documents\Visual Studio 2015\Projects\Kattis\Kattis\obj\Debug\Kattis.pdb
